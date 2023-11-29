@@ -1,6 +1,6 @@
 # MarjoDev quick projeck (openpad)
 
-A dontpad with WYSIWYG and version control, see [working here](https://marjo.dev/pad/).
+A dontpad with WYSIWYG and version control. See [working here]([https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js](https://marjo.dev/pad/)).
 
 ## Install the dependencies
 ```bash
